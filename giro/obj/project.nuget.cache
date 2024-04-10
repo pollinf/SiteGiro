@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "29997XcDUHYVWRvYmB3jVb/Z3hwm9APp7rgFdq5gzPNjiiAuJ0sHGLkjcut2huD/1h6trO4hpdsUY+FzlNBsPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ПОЛИНА\\Desktop\\giro\\giro\\giro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПОЛИНА\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ПОЛИНА\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ПОЛИНА\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ПОЛИНА\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
